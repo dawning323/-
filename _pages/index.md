@@ -1,7 +1,7 @@
 ---
 title: "生駒市について"
 author: dawning323
-permalink: 
+permalink: /
 ---
 
 
