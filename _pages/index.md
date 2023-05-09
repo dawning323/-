@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "dawning323について"
+author: dawning323
 permalink: /
 ---
 
@@ -13,9 +13,9 @@ permalink: /
 
 以下テンプレート
 
-# *鉄道模型*
-## レイアウト
-### 見出し3
+# **
+## 
+### 
 #### 見出し4
 ##### 見出し5
 ###### 見出し6
