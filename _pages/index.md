@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-
+<img src="https://www.uha-mikakuto.co.jp/catalog/ramune-tablet/img/rt02.jpg?0928" style="width: px;height:auto;">
 
 
 
@@ -33,6 +33,7 @@ permalink: /
 ## 住みやすさ
 - 三菱不動産の調査では住みやすさランキング2位
 - 閑静な住宅地という評判
+- ぶっちゃけ観光地ではない
 
 
 
