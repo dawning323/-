@@ -5,7 +5,6 @@ permalink: /
 ---
 
 
-<img src="https://www.uha-mikakuto.co.jp/catalog/ramune-tablet/img/rt02.jpg?0928" style="width: px;height:auto;">
 
 
 
@@ -18,7 +17,7 @@ permalink: /
 ## 有名な食べ物
 - レインボーラムネ　
 > UHA味覚糖からコラボ商品が販売中
-![image](https://www.uha-mikakuto.co.jp/catalog/ramune-tablet/img/rt02.jpg?0928)
+<img src="https://www.uha-mikakuto.co.jp/catalog/ramune-tablet/img/rt02.jpg?0928" style="width:100px;height:auto;">
 - 高山かきもち
 - 宝山寺みそ
 
